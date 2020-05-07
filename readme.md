@@ -2,9 +2,9 @@ Disclaimer: This was a learning project from 2017. I decided to upload it, it mi
  
 
 ## Installing
-Clone the repository and create and start a python virtual environment 
-Install the requirements.txt (opencv, numpy, ffmpeg, streamlink) 
-run it with "python 360match.py"
+Clone the repository and create and start a python virtual environment  
+Install the requirements.txt (opencv, numpy, ffmpeg, streamlink)  
+run it with "python 360match.py"  
 
 Im not sure about windows but you will need to also install ffmpeg
 
