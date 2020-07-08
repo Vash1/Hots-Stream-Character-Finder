@@ -1,5 +1,5 @@
 Disclaimer: This was a learning project from 2017. I decided to upload it, it might help someone.
-The files/classes/methods are not cleand up, as this was a prototype to test performance and server-load. My next iteration was in work by that time 
+The files/classes/methods are not cleaned up, as this was a prototype to test performance and server-load. My next iteration was in work by that time 
 I would have loved to continue the project and implement it with a proper Web/UI client but the publisher cancelled all tournaments (and most of the development) for the game (Heroes of the Storm) 
  
 
